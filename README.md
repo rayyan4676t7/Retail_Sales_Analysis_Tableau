@@ -54,7 +54,7 @@ This project answers the following business questions:
 
 Analyzes monthly revenue across the year to identify seasonal sales trends and revenue growth.
 
-![Monthly Revenue](q1.png)
+![Monthly Revenue](screenshots/q1.png)
 
 ---
 
@@ -62,7 +62,7 @@ Analyzes monthly revenue across the year to identify seasonal sales trends and r
 
 Compares revenue and quantity sold across top-performing countries.
 
-![Country Revenue](q2.png)
+![Country Revenue](screenshots/q2.png)
 
 ---
 
@@ -70,7 +70,7 @@ Compares revenue and quantity sold across top-performing countries.
 
 Identifies the highest revenue-generating customers and highlights customer purchasing patterns.
 
-![Top Customers](q3.png)
+![Top Customers](screenshots/q3.png)
 
 ---
 
@@ -78,7 +78,7 @@ Identifies the highest revenue-generating customers and highlights customer purc
 
 Visualizes quantity sold across different countries to understand regional demand.
 
-![Geographical Analysis](q4.png)
+![Geographical Analysis](screenshots/q4.png)
 
 ---
 
